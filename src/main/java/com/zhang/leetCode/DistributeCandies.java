@@ -28,7 +28,7 @@ import java.util.Set;
  */
 public class DistributeCandies {
     public static void main(String[] args) {
-        int[] candyType = {1,1,2,2,3,3};
+        int[] candyType = {1, 1, 2, 2, 3, 3};
         System.out.print(distributeCandies(candyType));
     }
 
